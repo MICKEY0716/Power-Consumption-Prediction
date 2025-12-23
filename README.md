@@ -121,3 +121,10 @@ This bridges the gap between **model development and real-world usability**.
 ### Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+---
+
+### Step 2: Run the Application
+```bash
+python ui/app.py
+```
