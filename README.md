@@ -130,4 +130,4 @@ python ui/app.py
 ```
 ---
 
-© 2024 Rachit Patwa. All rights reserved.
+© 2025 Rachit Patwa. All rights reserved.
