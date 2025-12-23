@@ -128,3 +128,6 @@ pip install -r requirements.txt
 ```bash
 python ui/app.py
 ```
+---
+
+© 2024 Rachit Patwa. All rights reserved.
